@@ -1,0 +1,1 @@
+OrderedDict([('Temperature', 24.87), ('Humidity', 63.41), ('Pressure', 908.61), ('LightIntensity', 12.5)])
